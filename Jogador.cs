@@ -2,8 +2,8 @@
 {
     public class Jogador
     {
-        public string Name { get; set; }
-        public string Time { get; set; }
-        public Luck BoxLuck { get; set; }
+        public string Nome { get; set; }
+        public string Grupo { get; set; }
+        //public Luck BoxLuck { get; set; }
     }
 }

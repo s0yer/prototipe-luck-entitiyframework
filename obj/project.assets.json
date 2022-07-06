@@ -1870,11 +1870,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jadson.oliveira\\Desktop\\workspace_jadson\\prototipe-luck-entityframework\\prototipe-luck-entityframework.csproj",
+      "projectUniqueName": "C:\\Users\\jadson.oliveira\\Desktop\\workspace_jadson\\luck-ef-prototipe\\prototipe-luck-entityframework.csproj",
       "projectName": "prototipe-luck-entityframework",
-      "projectPath": "C:\\Users\\jadson.oliveira\\Desktop\\workspace_jadson\\prototipe-luck-entityframework\\prototipe-luck-entityframework.csproj",
+      "projectPath": "C:\\Users\\jadson.oliveira\\Desktop\\workspace_jadson\\luck-ef-prototipe\\prototipe-luck-entityframework.csproj",
       "packagesPath": "C:\\Users\\jadson.oliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jadson.oliveira\\Desktop\\workspace_jadson\\prototipe-luck-entityframework\\obj\\",
+      "outputPath": "C:\\Users\\jadson.oliveira\\Desktop\\workspace_jadson\\luck-ef-prototipe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
