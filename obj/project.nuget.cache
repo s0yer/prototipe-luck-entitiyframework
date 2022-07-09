@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0b+d6lGLICB8Cxay6PJZ2gElKOaEbLKYGFy63P5JQ1RFps/jkpiFU9E9q5A3s2YwG3zuyTRTo5G7CLMqrXEdjg==",
+  "dgSpecHash": "3WINb7wumFlmSOLmLbUAgofG5dODKbAgGEABYRseyK1LfEQEBsLj7yY7ZUl0uXtwel03++ZsqqJggD6dNpkfbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jadson.oliveira\\Desktop\\workspace_jadson\\luck-ef-prototipe\\prototipe-luck-entityframework.csproj",
+  "projectFilePath": "C:\\Users\\jadson.oliveira\\Desktop\\workspace_jadson\\prototipe-luck-entityframework\\prototipe-luck-entityframework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jadson.oliveira\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jadson.oliveira\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
